@@ -1,3 +1,8 @@
+#### Name: [Omar Trkzi](https://github.com/Trkzi-Omar/)
+ - Place: Morocco
+ - Bio: Web developer (mainly ReactJs/NodeJs)
+ - GitHub: [omar-trkzi](https://github.com/Trkzi-Omar/)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
